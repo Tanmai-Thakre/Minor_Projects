@@ -1,0 +1,17 @@
+data/
+*.csv
+
+models/
+.pkl
+.h5
+.pt
+
+
+logs/
+
+
+--pycache__/
+*.pyc
+
+.env
+venv/
