@@ -6,11 +6,12 @@ anaconda_projects/
 data/
 *.csv
 
-models/
+models/*.pt
 .pkl
 .h5
 .pt
 
+best_model.pt
 
 logs/
 
