@@ -5,12 +5,13 @@ anaconda_projects/
 
 data/
 *.csv
+data_CIFAR10/
+PetImages/
 
 models/*.pt
 .pkl
 .h5
 .pt
-
 best_model.pt
 
 logs/
